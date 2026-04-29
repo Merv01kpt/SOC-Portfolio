@@ -18,9 +18,9 @@
 - **Other Processes Observed:** python, QuickTime
 
 ## 4. Analysis
-- The process cudominer.exe was flagged as suspicious by the SIEM
-- It differs from typical processes such as python and QuickTime
-- The alert may indicate unauthorized or unusual activity
+- The process cudominer.exe is commonly associated with cryptocurrency mining malware
+- It's execution may indicate unauthorized use of system resources
+- The presence of this process suggests a potential security compromise or misuse of the endpoint
 
 ## 5. Conclusion
 - The alert was triggered by cudominer.exe
