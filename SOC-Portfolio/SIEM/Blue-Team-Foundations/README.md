@@ -416,6 +416,17 @@ As additional training is completed, this repository will continue to evolve to 
 
 ---
 
+## Evidence
+
+Supporting screenshots are included within the Images folder and demonstrate practical completion of the following activities:
+- Humans as Attack Vectors
+- Systems as Attack Vectors
+- SOC Role in Blue Team
+- Security Policy Review
+- Final Challenge Completion
+
+---
+
 # Disclaimer
 
 This repository documents practical cybersecurity training completed for educational and professional portfolio purposes.
